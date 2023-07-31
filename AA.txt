@@ -1,0 +1,106 @@
+git init
+  
+git add .
+  
+git commit -m  "Deploying Apna-Code-Editor-main"
+
+git commit -m  "Deploying Banque-main"
+
+git commit -m  "Deploying Basic-Calculator-master"
+
+git commit -m  "Deploying Battlefield_Game-main"
+
+git commit -m  "Deploying beginner-example-codeing-main"
+
+git commit -m  "Deploying beginner-projects-master"
+
+git commit -m  "Deploying beginner-projects-solutions-master"
+
+git commit -m  "Deploying Beginner-Python-master"
+
+git commit -m  "Deploying BridgeHero-TurtleGame-master"
+
+git commit -m  "Deploying Calculator-main"
+
+git commit -m  "Deploying Cartoonify-Image-Using-OpenCV-main"
+
+git commit -m  "Deploying Chess-on-python-master"
+
+git commit -m  "Deploying CoffeeMachine-main"
+
+git commit -m  "Deploying Data-Analysis-Project-master"
+
+git commit -m  "Deploying DjangoWebapp-master"
+
+git commit -m  "Deploying Dominoes_game_Python-main"
+
+git commit -m  "Deploying eGuestbook-master"
+
+git commit -m  "Deploying Extension-Changer-main"
+
+git commit -m  "Deploying Face-Recognition-Based-Attendance-System-master"
+
+git commit -m  "Deploying File-Copier-main"
+
+git commit -m  "Deploying FLAMES-in-python-main"
+
+git commit -m  "Deploying flask-api-example-main"
+
+git commit -m  "Deploying invoice-generator-python-main"
+
+git commit -m  "Deploying Leaky-LAN-master"
+
+git commit -m  "Deploying learn-programming-with-python-main"
+
+git commit -m  "Deploying medinnovate-master"
+
+git commit -m  "Deploying Minna-No-Python-master"
+
+git commit -m  "Deploying Move_files_according_to_date-main"
+
+git commit -m  "Deploying openCV_py_learn-master"
+
+git commit -m  "Deploying ping_pong_game-master"
+
+git commit -m  "Deploying pycode64-master"
+
+git commit -m  "Deploying pydatalearn-master"
+
+git commit -m  "Deploying python_projects-master"
+
+git commit -m  "Deploying python_scraping_web-master"
+
+git commit -m  "Deploying python-games-main"
+
+git commit -m  "Deploying python-login-simulator-main"
+
+git commit -m  "Deploying Python-Projects-All-Projects"
+
+git commit -m  "Deploying Python-projects-for-beginners--main"
+
+git commit -m  "Deploying Python-Turtle-Graphics-master"
+
+git commit -m  "Deploying QRCodeGenerator-Python-main"
+
+git commit -m  "Deploying Restaurant_Billing_sys-main"
+
+git commit -m  "Deploying SheetSQL-master"
+
+git commit -m  "Deploying simple-gpg-master"
+
+git commit -m  "Deploying Somen-Soupy-master"
+
+git commit -m  "Deploying Space-Invaders-master"
+
+git commit -m  "Deploying Stone-Paper-Scissor-master"
+
+git commit -m  "Deploying student_management_system-main"
+
+git commit -m  "Deploying sudoku-master"
+
+git commit -m  "Deploying TABSlike-master"
+
+git commit -m  "Deploying The-Snake-game-master"
+
+git commit -m  "Deploying url-shortner-master"
+
